@@ -1,7 +1,8 @@
 {
-  "extends": ["some-other-config", "prettier"],
+  "extends": ["react-app", "prettier"],
   "plugins": ["prettier"],
   "rules": {
     "prettier/prettier": "error"
-  }
+  },
+  "parserOptions": { "sourceType": "module" }
 }
