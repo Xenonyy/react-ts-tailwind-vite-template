@@ -11,7 +11,7 @@
 # Getting Started
 ## Installation
 
-Clone this repository with ```git clone https://github.com/Xenonyy/react-ts-tailwind-template/``` \
+Clone this repository with ```git clone https://github.com/Xenonyy/react-ts-tailwind-vite-template/``` \
 Then run ``` npm install && npm run dev```
 
 ### Happy coding! 🚀
