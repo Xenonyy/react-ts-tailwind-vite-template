@@ -14,4 +14,4 @@
 Clone this repository with ```git clone https://github.com/Xenonyy/react-ts-tailwind-template/``` \
 Then run ``` npm install && npm run dev```
 
-# Happy coding! 🚀
+### Happy coding! 🚀
